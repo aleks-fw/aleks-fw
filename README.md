@@ -14,6 +14,8 @@ where AI gets access to real devices.
 <a href="https://github.com/aleks-fw/CodeCheck-MCP/blob/main/CONTRIBUTING.md"><img src="assets/pill-contributing.svg" alt="Contributing"></a>
 <a href="https://github.com/aleks-fw/CodeCheck-MCP/blob/main/LICENSE"><img src="assets/pill-license.svg" alt="MIT license"></a>
 <a href="https://github.com/aleks-fw/CodeCheck-MCP/blob/main/SECURITY.md"><img src="assets/pill-security.svg" alt="Security"></a>
+<a href="https://github.com/Graphify-Labs/graphify"><img src="assets/pill-graphify.svg" alt="Graphify"></a>
+<a href="https://github.com/garrytan/gstack"><img src="assets/pill-gstack.svg" alt="gstack"></a>
 
 <br clear="right">
 
