@@ -26,3 +26,10 @@ where AI gets access to real devices.
 I'm into gameplay-first single-player and indie games, mechanical keyboards, and the pure joy of typing.
 
 🇷🇺 Native Russian speaker. English when necessary.
+
+<div align="center">
+  <img src="assets/girl.png" width="150" alt="pixel girl with laptop">
+  <br>
+  <a href="https://t.me/Lcrealor"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://x.com/creatorulep"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</div>
