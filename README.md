@@ -9,12 +9,7 @@ where AI gets access to real devices.
 
 **Vibe-coded software. Human-written words.**
 
-```
-🤖 Vibe coding • AI agents • automation
-⌨️ Claude Code • custom skills • MCP
-🐍 Python • Telegram bots • Supabase
-🧰 Tools I've worked with: Claude Code • Playwright • Telethon
-```
+<img src="assets/stack.svg" width="540" alt="stack">
 
 [![CodeCheck MCP](https://img.shields.io/badge/CodeCheck_MCP-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleks-fw/CodeCheck-MCP)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/myportfoIia)
