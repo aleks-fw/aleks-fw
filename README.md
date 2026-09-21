@@ -1,6 +1,6 @@
-<img align="right" width="276" src="assets/side.png" alt="rainbow kitten">
+<img align="right" width="276" src="assets/side.jpg" alt="rainbow kitten">
 
-## 👋 Hi, I'm FOPA — aka `Lesha`
+### 👋 Hi, I'm FOPA — aka `Lesha`
 
 **Vibe coder, writer, content creator, and professional chat instigator.**
 
@@ -21,7 +21,7 @@ where AI gets access to real devices.
 
 <br clear="right">
 
-## 🌤 Outside the terminal
+### 🌤 Outside the terminal
 
 I'm into gameplay-first single-player and indie games, mechanical keyboards, and the pure joy of typing.
 
