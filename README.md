@@ -11,8 +11,9 @@ where AI gets access to real devices.
 
 <img src="assets/stack.svg" width="540" alt="stack">
 
-[![CodeCheck MCP](https://img.shields.io/badge/CodeCheck_MCP-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleks-fw/CodeCheck-MCP)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/myportfoIia)
+<a href="https://github.com/aleks-fw/CodeCheck-MCP/blob/main/CONTRIBUTING.md"><img src="assets/pill-contributing.svg" alt="Contributing"></a>
+<a href="https://github.com/aleks-fw/CodeCheck-MCP/blob/main/LICENSE"><img src="assets/pill-license.svg" alt="MIT license"></a>
+<a href="https://github.com/aleks-fw/CodeCheck-MCP/blob/main/SECURITY.md"><img src="assets/pill-security.svg" alt="Security"></a>
 
 <br clear="right">
 
